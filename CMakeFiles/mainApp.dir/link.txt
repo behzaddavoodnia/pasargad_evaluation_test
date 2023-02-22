@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/mainApp.dir/main.cpp.o  -o mainApp  -Wl,-rpath,/home/behzad/daikin_test/build libmyLib.so 

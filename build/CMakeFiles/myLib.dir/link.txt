@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC   -shared -Wl,-soname,libmyLib.so -o libmyLib.so CMakeFiles/myLib.dir/myprog.c.o CMakeFiles/myLib.dir/ini.c.o 

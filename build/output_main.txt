@@ -1,0 +1,179 @@
+msg 0 is: p1, 40, NULL
+msg 1 is: p2, -1, Pasargad1
+msg 2 is: p1, 37, NULL
+msg 3 is: p2, -1, Pasargad3
+msg 4 is: p1, 4, NULL
+msg 5 is: p2, -1, Pasargad5
+msg 6 is: p1, 92, NULL
+msg 7 is: p2, -1, Pasargad7
+msg 8 is: p1, 81, NULL
+msg 9 is: p2, -1, Pasargad9
+msg 10 is: p1, 69, NULL
+msg 11 is: p2, -1, Pasargad11
+msg 12 is: p1, 21, NULL
+msg 13 is: p2, -1, Pasargad13
+msg 14 is: p1, 68, NULL
+msg 15 is: p2, -1, Pasargad15
+msg 16 is: p1, 6, NULL
+msg 17 is: p2, -1, Pasargad17
+msg 18 is: p1, 70, NULL
+msg 19 is: p2, -1, Pasargad19
+
+Config loaded from 'fconfig.ini':
+port = 9000, p1 = fup, p2 = fdown
+
+Sent message: p1, 40, NULL
+Sent message: p2, -1, Pasargad1
+Sent message: p1, 37, NULL
+Sent message: p2, -1, Pasargad3
+Sent message: p1, 4, NULL
+Sent message: p2, -1, Pasargad5
+Sent message: p1, 92, NULL
+Sent message: p2, -1, Pasargad7
+Sent message: p1, 81, NULL
+Sent message: p2, -1, Pasargad9
+Sent message: p1, 69, NULL
+Sent message: p2, -1, Pasargad11
+Sent message: p1, 21, NULL
+Sent message: p2, -1, Pasargad13
+Sent message: p1, 68, NULL
+Sent message: p2, -1, Pasargad15
+Sent message: p1, 6, NULL
+Sent message: p2, -1, Pasargad17
+Sent message: p1, 70, NULL
+Sent message: p2, -1, Pasargad19
+
+Received message: p1, 40, NULL in time: 		2023-02-22 13:22:18
+Received message: p2, -1, Pasargad1 in time: 		2023-02-22 13:22:18
+Received message: p1, 37, NULL in time: 		2023-02-22 13:22:18
+Received message: p2, -1, Pasargad3 in time: 		2023-02-22 13:22:18
+Received message: p1, 4, NULL in time: 		2023-02-22 13:22:18
+Received message: p2, -1, Pasargad5 in time: 		2023-02-22 13:22:18
+Received message: p1, 92, NULL in time: 		2023-02-22 13:22:18
+Received message: p2, -1, Pasargad7 in time: 		2023-02-22 13:22:18
+Received message: p1, 81, NULL in time: 		2023-02-22 13:22:18
+Received message: p2, -1, Pasargad9 in time: 		2023-02-22 13:22:18
+Received message: p1, 69, NULL in time: 		2023-02-22 13:22:18
+Received message: p2, -1, Pasargad11 in time: 		2023-02-22 13:22:18
+Received message: p1, 21, NULL in time: 		2023-02-22 13:22:18
+Received message: p2, -1, Pasargad13 in time: 		2023-02-22 13:22:18
+Received message: p1, 68, NULL in time: 		2023-02-22 13:22:18
+Received message: p2, -1, Pasargad15 in time: 		2023-02-22 13:22:18
+Received message: p1, 6, NULL in time: 		2023-02-22 13:22:18
+Received message: p2, -1, Pasargad17 in time: 		2023-02-22 13:22:18
+Received message: p1, 70, NULL in time: 		2023-02-22 13:22:18
+Received message: p2, -1, Pasargad19 in time: 		2023-02-22 13:22:18
+Opened database successfully
+Table created successfully!
+ID = 0
+PREFIX = p1
+INT_VAL = 59
+STR_VAL = NULL
+
+ID = 1
+PREFIX = p2
+INT_VAL = -1
+STR_VAL = Pasargad1
+
+ID = 2
+PREFIX = p1
+INT_VAL = 78
+STR_VAL = NULL
+
+ID = 3
+PREFIX = p2
+INT_VAL = -1
+STR_VAL = Pasargad3
+
+ID = 4
+PREFIX = p1
+INT_VAL = 37
+STR_VAL = NULL
+
+ID = 5
+PREFIX = p2
+INT_VAL = -1
+STR_VAL = Pasargad5
+
+ID = 6
+PREFIX = p1
+INT_VAL = 22
+STR_VAL = NULL
+
+ID = 7
+PREFIX = p2
+INT_VAL = -1
+STR_VAL = Pasargad7
+
+ID = 8
+PREFIX = p1
+INT_VAL = 61
+STR_VAL = NULL
+
+ID = 9
+PREFIX = p2
+INT_VAL = -1
+STR_VAL = Pasargad9
+
+ID = 10
+PREFIX = p1
+INT_VAL = 44
+STR_VAL = NULL
+
+ID = 11
+PREFIX = p2
+INT_VAL = -1
+STR_VAL = Pasargad11
+
+ID = 12
+PREFIX = p1
+INT_VAL = 59
+STR_VAL = NULL
+
+ID = 13
+PREFIX = p2
+INT_VAL = -1
+STR_VAL = Pasargad13
+
+ID = 14
+PREFIX = p1
+INT_VAL = 56
+STR_VAL = NULL
+
+ID = 15
+PREFIX = p2
+INT_VAL = -1
+STR_VAL = Pasargad15
+
+ID = 16
+PREFIX = p1
+INT_VAL = 25
+STR_VAL = NULL
+
+ID = 17
+PREFIX = p2
+INT_VAL = -1
+STR_VAL = Pasargad17
+
+ID = 18
+PREFIX = p1
+INT_VAL = 40
+STR_VAL = NULL
+
+ID = 19
+PREFIX = p2
+INT_VAL = -1
+STR_VAL = Pasargad19
+
+Program finished successfully
+Sorted elements is: 
+4
+6
+21
+37
+40
+68
+69
+70
+81
+92

@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/mainApp.dir/main.c.o  -o mainApp  -Wl,-rpath,/home/behzad/pasargad/build libmyLib.so -lzmq -lsqlite3 
