@@ -4,7 +4,7 @@
 * cmake .. && make
 
 * For test App use:
-  ** ./testApp
+  * ./testApp
 
 * For main App use:
-  ** ./mainApp
+  * ./mainApp
